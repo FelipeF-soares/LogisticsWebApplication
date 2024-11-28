@@ -1,0 +1,49 @@
+/* _content/LogisticsWebApplication/Areas/User/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-han0cmidvv] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-han0cmidvv] {
+  color: #0077cc;
+}
+
+.btn-primary[b-han0cmidvv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-han0cmidvv], .nav-pills .show > .nav-link[b-han0cmidvv] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-han0cmidvv] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-han0cmidvv] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-han0cmidvv] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-han0cmidvv] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-han0cmidvv] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

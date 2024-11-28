@@ -1,0 +1,15 @@
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\bin\Debug\net8.0\LogisticsDataAccess.deps.json
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\bin\Debug\net8.0\LogisticsDataAccess.dll
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\bin\Debug\net8.0\LogisticsDataAccess.pdb
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\bin\Debug\net8.0\LogisticsDomain.dll
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\bin\Debug\net8.0\LogisticsDomain.pdb
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\LogisticsDataAccess.csproj.AssemblyReference.cache
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\LogisticsDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\LogisticsDataAccess.AssemblyInfoInputs.cache
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\LogisticsDataAccess.AssemblyInfo.cs
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\LogisticsDataAccess.csproj.CoreCompileInputs.cache
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\Logistic.E6A12A3A.Up2Date
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\LogisticsDataAccess.dll
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\refint\LogisticsDataAccess.dll
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\LogisticsDataAccess.pdb
+F:\0.Projetos\LogisticsWebApplication\LogisticsDataAccess\obj\Debug\net8.0\ref\LogisticsDataAccess.dll

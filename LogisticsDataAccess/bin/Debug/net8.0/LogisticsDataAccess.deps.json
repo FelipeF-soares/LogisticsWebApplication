@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LogisticsDataAccess/1.0.0": {
+        "dependencies": {
+          "LogisticsDomain": "1.0.0"
+        },
+        "runtime": {
+          "LogisticsDataAccess.dll": {}
+        }
+      },
+      "LogisticsDomain/1.0.0": {
+        "runtime": {
+          "LogisticsDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogisticsDataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogisticsDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

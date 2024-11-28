@@ -1,0 +1,11 @@
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\bin\Debug\net8.0\LogisticsDomain.deps.json
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\bin\Debug\net8.0\LogisticsDomain.dll
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\bin\Debug\net8.0\LogisticsDomain.pdb
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\obj\Debug\net8.0\LogisticsDomain.GeneratedMSBuildEditorConfig.editorconfig
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\obj\Debug\net8.0\LogisticsDomain.AssemblyInfoInputs.cache
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\obj\Debug\net8.0\LogisticsDomain.AssemblyInfo.cs
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\obj\Debug\net8.0\LogisticsDomain.csproj.CoreCompileInputs.cache
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\obj\Debug\net8.0\LogisticsDomain.dll
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\obj\Debug\net8.0\refint\LogisticsDomain.dll
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\obj\Debug\net8.0\LogisticsDomain.pdb
+F:\0.Projetos\LogisticsWebApplication\LogisticsDomain\obj\Debug\net8.0\ref\LogisticsDomain.dll
